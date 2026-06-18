@@ -298,11 +298,6 @@ Função `f(x) = x³ − x − 2`, tolerância `1e-8`:
 | `scipy` | Referência (método de Brent) |
 
 ---
-
-## Descrição para Currículo / LinkedIn
-
-> *"Desenvolvimento de aplicação Python para resolução de equações não lineares utilizando métodos numéricos clássicos (Bisseção, Newton-Raphson, Secante e Falsa Posição), incluindo análise de convergência, visualização gráfica interativa via Streamlit e geração automatizada de relatórios em CSV — projeto acadêmico de Cálculo Numérico (UNESP)."*
-
 ---
 
 <div align="center">
