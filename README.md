@@ -301,5 +301,5 @@ Função `f(x) = x³ − x − 2`, tolerância `1e-8`:
 ---
 
 <div align="center">
-  <sub>Desenvolvido por Marie · UNESP · Cálculo Numérico</sub>
+  <sub>Desenvolvido por Marie  · Cálculo Numérico</sub>
 </div>
